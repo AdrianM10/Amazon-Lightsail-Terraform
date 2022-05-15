@@ -10,3 +10,6 @@
 
 # Sensitive data
 *.tfvars
+
+# Dependency Lock File
+.terraform.lock.hcl
